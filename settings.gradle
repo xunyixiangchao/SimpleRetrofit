@@ -1,0 +1,3 @@
+include ':simpleretrofit-library'
+include ':app'
+rootProject.name = "SimpleRetrofit"
